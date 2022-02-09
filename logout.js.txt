@@ -1,4 +1,4 @@
-console.log(social)
+console.log(logout)
 {
 return"byy byy world"
 }

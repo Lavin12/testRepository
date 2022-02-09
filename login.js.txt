@@ -1,4 +1,4 @@
-console.log(password)
+console.log(social)
 {
 return "hello eorld"
 }
