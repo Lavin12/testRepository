@@ -1,0 +1,4 @@
+console.log(social)
+{
+return"byy byy world"
+}
